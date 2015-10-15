@@ -1,0 +1,118 @@
+header{
+	background-image: url("../img/background/hero.jpg");
+	background-size: cover;
+	height: 32em;
+}
+
+.bor{
+	border: solid;
+	border-color: black; 
+}
+.nav{
+	background-color: #021631;
+	background-size: cover;
+	height: 2.5em;
+}
+
+header nav ul{
+	list-style: none;
+}
+
+header nav li{
+	display: inline-block;
+	margin-right: 2em;
+	margin-top:4%;
+}
+
+header p{
+	font-size: 2.7em;
+	text-align: center;
+	margin-top: 15%;
+	
+}
+
+header p:nth-child(2){
+   	font-size: 1em;
+	text-align: center;
+	margin-top: 2%
+}
+
+header button{
+	margin-top: 5%;
+	padding: 1%;
+	width: 13%;
+}
+	.header-b1{
+	margin-left: 35%;
+	background-color: 
+}
+
+	.header-b2{
+	margin-left: 5%;
+}
+
+.bgwhite{
+	height: 40em;
+}
+
+/* Iconos azules ↓ */
+
+section.bgwhite h2{
+	font-family: 'ElegantIcons';
+	color:#0dc0c0;
+	text-align:center;
+	margin-top: 40%;
+	font-size: 2em;
+}
+
+section.bgwhite p{
+	padding-top: 2%; 
+}
+
+/*Section "More Features"*/
+section.bg-gray{
+	height: 28em;
+}
+
+section.bg-gray img{
+	width: 90%;
+	margin-left: 6%;
+	margin-top: 6%;
+}
+
+section.bg-gray h2{
+	font-size: 2em;
+}
+
+/**/
+
+.bgwhite2{
+	height: 32em;
+	padding-top: 5%;
+}
+
+section.bgwhite2 p:nth-child(2){
+	color: #888;
+}
+ /**/
+
+ .bg-gray2{
+	height: 50em;
+	background-color: rgb(244, 244, 244);
+}
+
+section.portfolio img{
+	width: 90%;
+	border: rgb(244, 244, 244) solid;
+	padding: 3% 3% 10% 3%;
+}
+
+section.portfolio ul{
+	list-style: none;
+}
+
+section.portfolio li{
+	display: inline-block;
+	border:solid white; 
+	padding: 2%
+}
